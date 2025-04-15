@@ -1,5 +1,5 @@
 class Lanno < Formula
-  desc "A cli tool can add metadata to your directory."
+  desc "Command-line tool for enhancing code organization with file annotations, similar to ls but with metadata"
   homepage "https://github.com/chivier/lanno"
   url "https://github.com/Chivier/lanno/archive/refs/tags/v1.1.0.tar.gz"
   sha256 "b7c765837e30e64b54292da701a117e544e0f12e70bae03bcf835bd310bc6878"
